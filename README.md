@@ -60,3 +60,5 @@ This is sample webapi written in python.
     workon python3.9_flask_env
     witch python
     ```
+   
+7. enable Force HTTPS
