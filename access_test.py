@@ -16,6 +16,6 @@ def access_test(webapi_url):
    
     
 if __name__ == '__main__':
-    webapi_url = "http://hmkc1220.pythonanywhere.com/api"
+    webapi_url = "https://hmkc1220.pythonanywhere.com/api"
     # webapi_url = "http://localhost:8888/api"
     access_test(webapi_url)
