@@ -1,7 +1,7 @@
 # About
 This is sample webapi written in python.
 
-# pythonanywhere
+# pythonanywhere: https://www.pythonanywhere.com/
 1. clone repo
     ```commandline
     git clone https://github.com/TakanariShimbo/sample_webapi_python.git
