@@ -1,5 +1,5 @@
 # About
-This is sample webapi written in python.
+This is sample webapi written in python (flask).
 
 # pythonanywhere: https://www.pythonanywhere.com/
 1. clone repo
