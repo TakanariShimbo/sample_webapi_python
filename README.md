@@ -2,31 +2,31 @@
 This is sample webapi written in python (flask).
 
 # pythonanywhere: https://www.pythonanywhere.com/
-1. clone repo
+1. clone repo at consoles
     ```commandline
     git clone https://github.com/TakanariShimbo/sample_webapi_python.git
     cd sample_webapi_python
     ```
    
-2. make virtualenv
+2. make virtualenv at consoles
     ```commandline
     mkvirtualenv python3.9_flask_env --python=/usr/bin/python3.9
     deactivate
     ```
    
-3. install requirements
+3. install requirements at consoles
     ```commandline
     workon python3.9_flask_env
     pip install -r requirements.txt
     ```
    
-4. start web  
+4. start web at web
     Under the Web section click on add new web app.  
     Click Next.  
     Then Select manual configuration then click Next.  
     After that, choose the python version, and click Next.
 
-5. edit wsgi file
+5. edit wsgi file at files
     ```python
     # +++++++++++ FLASK +++++++++++
     # Flask works like any other WSGI-compatible framework, we just need
@@ -54,11 +54,11 @@ This is sample webapi written in python (flask).
     # will prevent your wsgi file from working.
     ```
    
-6. set virtualenv path  
-    how to check path
+6. set virtualenv path at web
+    how to check path at consoles
     ```commandline
     workon python3.9_flask_env
     witch python
     ```
    
-7. enable Force HTTPS
+7. enable Force HTTPS at web
