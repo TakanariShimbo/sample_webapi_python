@@ -63,7 +63,6 @@ This is sample webapi written in python (flask).
    
 7. enable Force HTTPS at web
 
-2. Change "project name"
     
 # How to create this
 0. install python, something virtualenv
