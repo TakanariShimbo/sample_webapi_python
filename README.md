@@ -62,3 +62,32 @@ This is sample webapi written in python (flask).
     ```
    
 7. enable Force HTTPS at web
+
+2. Change "project name"
+    
+# How to create this
+0. install python, something virtualenv
+
+1. make and into project_directoy: sample_webapi_python
+    ```
+    mkdir sample_webapi_python
+    cd sample_webapi_python
+    ```
+
+2. activate virtualenv
+    for exsample conda
+    ```
+    conda create --name python3.9_sample_webapi_python python=3.9 -y
+    conda activate python3.9_sample_webapi_pyhton
+    ```
+    
+3. install librarys
+    ```
+    pip install Flask
+    ```
+
+4. meke and coy&paste main_file: index.py
+    ```
+    touch index.py
+    ```
+    copy&paste this rep's index.py
