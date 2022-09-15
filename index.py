@@ -23,7 +23,7 @@ def get_index():
     return 'Hello world'
 
 
-@app.route('/api', methods=['POST'])
+@app.route('/api/', methods=['POST'])
 def post_api():
     return post_action(request)
 
